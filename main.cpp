@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    const int full_memory_size = 5;
+    const int full_memory_size = 6;
     int arr[full_memory_size];
     int sum = 0;
     for (size_t i = 0; i < full_memory_size; i++)
